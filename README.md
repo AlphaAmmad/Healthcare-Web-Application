@@ -1,5 +1,5 @@
 
-downloarxd the file it will help you to setup project 
+downloard the file it contains readme file in it , which will help you to setup it in your pc
 
 I successfully developed ZABcare, a web-based Health Care Management System, designed to revolutionize medical e-channeling and make appointment booking seamless for patients, doctors, and administrators.
 
